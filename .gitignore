@@ -1,0 +1,10 @@
+# package manager
+/node_modules
+yarn.lock
+package-lock.json
+
+# editor
+.history
+
+# project
+/dist

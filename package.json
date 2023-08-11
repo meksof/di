@@ -1,0 +1,13 @@
+{
+    "name": "esbuild",
+    "scripts": {
+        "build": "node build.js"
+    },
+    "devDependencies": {
+        "esbuild": "^0.14.47",
+        "typescript": "^4.7.4"
+    },
+    "dependencies": {
+        "rxjs": "^7.5.5"
+    }
+}
